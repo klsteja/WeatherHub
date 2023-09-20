@@ -1,4 +1,4 @@
-# Weather Hub - Your Open-Source Weather Web Application
+# Weather Hub - Weather Web Application
 
 Welcome to Weather Hub, an open-source web application designed to help users stay updated on the weather in any location, with a remarkable 98% accuracy. Built using the Forecast Weather API from Rapid API, Weather Hub offers a seamless and dynamic experience to users. Here are some key highlights:
 
