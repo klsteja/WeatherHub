@@ -24,7 +24,7 @@ search_btn.addEventListener("click", (event) => {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '4e050d63b2msh66af05d0f253652p1da13ejsn5c9317f5b514',
+            'X-RapidAPI-Key': 'PUBLIC_API_KEY',
             'X-RapidAPI-Host': 'foreca-weather.p.rapidapi.com'
         }
     };
